@@ -88,13 +88,22 @@ diagnostic plots based on coefficient sampling.
 
 
 ├── figs/                         # Output figures used in the paper
+
 ├── output_dap/                   # Example LVM-DAP dataproducts
+
 ├── plot_DAP_Helix_cor.ipynb      # Main notebook producing nearly all figures
+
 ├── hips_plot.ipynb               # Notebook generating HIPS-based sky images
+
 ├── Plot_PDF_from_DAP.ipynb       # Posterior PDFs from DAP RSP decomposition
+
 ├── Plot_PDF_from_coeffs.ipynb    # Functions for plotting RSP coefficient PDFs
+
 ├── cmapCLC.py                    # Custom colormaps
+
 ├── cmaps_CLC.py                  # Additional colormaps
+
 ├── my_utils.py                   # Utility functions for plotting & I/O
+
 ├── README.md                     # This file
 
