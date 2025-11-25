@@ -87,18 +87,6 @@ diagnostic plots based on coefficient sampling.
 ## ðŸ“‚ Directory Structure
 
 
-Ã¢”œÃ¢”€Ã¢”€ figs/                         # Output figures used in the paper
-Ã¢”œÃ¢”€Ã¢”€ output_dap/                   # Example LVM-DAP dataproducts
-Ã¢”œÃ¢”€Ã¢”€ plot_DAP_Helix_cor.ipynb      # Main notebook producing nearly all figures
-Ã¢”œÃ¢”€Ã¢”€ hips_plot.ipynb               # Notebook generating HIPS-based sky images
-Ã¢”œÃ¢”€Ã¢”€ Plot_PDF_from_DAP.ipynb       # Posterior PDFs from DAP RSP decomposition
-Ã¢”œÃ¢”€Ã¢”€ Plot_PDF_from_coeffs.ipynb    # Functions for plotting RSP coefficient PDFs
-Ã¢”œÃ¢”€Ã¢”€ cmapCLC.py                    # Custom colormaps
-Ã¢”œÃ¢”€Ã¢”€ cmaps_CLC.py                  # Additional colormaps
-Ã¢”œÃ¢”€Ã¢”€ my_utils.py                   # Utility functions for plotting & I/O
-Ã¢”œÃ¢”€Ã¢”€ README.md                     # This file
-
-
 â”œâ”€â”€ figs/                         # Output figures used in the paper
 â”œâ”€â”€ output_dap/                   # Example LVM-DAP dataproducts
 â”œâ”€â”€ plot_DAP_Helix_cor.ipynb      # Main notebook producing nearly all figures
@@ -109,3 +97,4 @@ diagnostic plots based on coefficient sampling.
 â”œâ”€â”€ cmaps_CLC.py                  # Additional colormaps
 â”œâ”€â”€ my_utils.py                   # Utility functions for plotting & I/O
 â”œâ”€â”€ README.md                     # This file
+
